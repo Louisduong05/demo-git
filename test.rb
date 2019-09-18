@@ -1,11 +1,15 @@
-def pow(base_num, pow_num)
-  result = 1
-  pow_num.times do |index|
-    result = result * base_num
+#!usr/bin/ruby -w
+class Find_prime
+  def self.test_1
+    puts "Test 1"
   end
 
-  result
+  def self.test_2
+    puts "Test 2"
+  end
+
+  def test_3
+    puts "Test 3"
+  end
 end
-
-
-puts 10.times
+Find_prime.new.test_3
