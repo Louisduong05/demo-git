@@ -13,3 +13,6 @@ class Find_prime
   end
 end
 Find_prime.new.test_3
+# asdasdasdas
+# asdjahdskjas
+# ajsdhasasdas  
